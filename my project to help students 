@@ -1,0 +1,12 @@
+utility designed to optimize academic time management. As a student in the Mosul region aiming for global excellence, I developed this tool to address a common challenge: inefficient study time allocation. The program utilizes a weighted algorithm to distribute available study hours across multiple subjects based on their individual difficulty levels, ensuring that more demanding topics receive the focus they require.
+​Key Features:
+​Dynamic Time Allocation: Dynamically calculates study duration per subject using a weighted distribution logic.
+​User-Centric Design: Simple, interactive CLI (Command Line Interface) for quick scheduling.
+​Scalability: The algorithm can be easily adapted to include priority tags or subject-specific deadlines in future versions.
+​Why I Built This:
+I believe that technology should be an enabler for academic success. This project represents my commitment to combining logical programming with practical daily problem-solving. By automating the planning process, I can dedicate more of my cognitive resources to deep learning and mastery of the curriculum.
+​Technical Stack:
+​Language: Python 3.x
+​Logic: Algorithmic Weighted Distribution
+The Problem: "Students often struggle with allocating time to subjects based on their difficulty level."
+​The Solution: "This Python script uses a weighted distribution algorithm to help students create balanced study schedules."
